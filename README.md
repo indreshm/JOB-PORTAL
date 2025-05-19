@@ -20,4 +20,4 @@ This Job Portal application allows users to search and apply for jobs, as well a
 - Responsive design for mobile and desktop
 
 
-- [Link](#https://job-portal-d2oi.onrender.com)
+- [https://job-portal-d2oi.onrender.com](#https://job-portal-d2oi.onrender.com)
